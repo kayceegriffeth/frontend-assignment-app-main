@@ -1,1 +1,1 @@
-This is my frontend assingment app for the mid course project!!!! 
+This is my frontend assignment app for the mid course project!!!! 
