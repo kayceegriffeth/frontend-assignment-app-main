@@ -9,7 +9,7 @@ export default function ResultsTable({ results, loading, error }) {
       {error && <p className="text-danger fw-bold">{error}</p>}
 
       {results.length > 0 && (
-        <table className="table table-bordered">
+        <table className="table table-bordered table0striped">
           <thead className="table-dark">
             <tr>
               {Object.keys(results[0]).map((key) => (
